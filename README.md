@@ -1,4 +1,5 @@
 THIS IS MY PERSONAL PROJECT WITH STARTCODE!!!
+[![Build Status](https://www.travis-ci.com/AllanSimonsen789/ca3per_backend.svg?branch=master)](https://www.travis-ci.com/AllanSimonsen789/ca3per_backend)
 
 
 # StartCode_CA3
