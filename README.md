@@ -1,3 +1,6 @@
+THIS IS MY PERSONAL PROJECT WITH STARTCODE!!!
+
+
 # StartCode_CA3
 #### Asignment: [CA3 QuickStart Project](https://github.com/Gold-ish/StartCode_CA3_Backend/blob/master/CA3-QuickStart-project.pdf)
 
